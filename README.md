@@ -1,3 +1,8 @@
 # SOG12ver2
-Version2\n
-Roles:\n
+*Version 2*
+Roles: 
+- Manager: Mireia Carvajal 
+- Verificador: Aida Padilla 
+- Comunicador: Andrea Hidalgo
+
+Link video:
