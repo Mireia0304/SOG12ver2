@@ -1,5 +1,6 @@
 # SOG12ver2
-*Version 2*
+**Version 2**
+´´´´
 Roles: 
 - Manager: Mireia Carvajal 
 - Verificador: Aida Padilla 
