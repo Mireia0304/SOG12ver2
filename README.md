@@ -5,4 +5,4 @@ Roles:
 - Verificador: Aida Padilla 
 - Comunicador: Andrea Hidalgo
 
-Link video:
+Link video: https://youtu.be/UNFAbc7hAws
